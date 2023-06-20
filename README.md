@@ -1,3 +1,0 @@
-# readme
-
-Lorem ipsum
