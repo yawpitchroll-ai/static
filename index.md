@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-# yawpitchroll.ai
+# yawpitchroll
 
 The cloud-based data replay platform that can help your autonomous vehicle startup get to market faster and safer, on any cloud platform.
 
