@@ -5,10 +5,22 @@ layout: home
 
 # yawpitchroll.ai
 
-The data replay tool that can help your autonomous vehicle startup get to market faster and safer, on any cloud platform.
+The cloud-based data replay platform that can help your autonomous vehicle startup get to market faster and safer, on any cloud platform.
 
 ----
-**yawpitchroll.ai** is a cloud-based data replay tool that can help autonomous vehicle startups develop and test their vehicles more quickly and efficiently. By replaying recorded data from real-world driving scenarios, startups can:
+
+**IMPORTANT PLEASE READ**
+
+Dear friends and family,
+
+This page and product are still under construction, so please check back soon for updates. If you have any questions, please reach out to [Neha](neha@yawpitchroll.ai) or [Nikhil](nikhil@yawpitchroll.ai).
+
+Thanks for your kind wishes and support!
+
+Cheers!
+
+----
+**yawpitchroll.ai** is a cloud-based data replay platform that can help autonomous vehicle startups develop and test their vehicles more quickly and efficiently. By replaying recorded data from real-world driving scenarios, startups can:
 
 * Identify and fix bugs
 * Evaluate the performance of their vehicles
