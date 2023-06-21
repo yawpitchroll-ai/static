@@ -44,6 +44,6 @@ Cheers!
 * **Cost-effective**
 * **Easy to use**
 
-**Sign up for a free trial today!**
+**Sign up for a free trial today! (Coming soon)**
 
 ----
