@@ -13,7 +13,7 @@ The cloud-based data replay platform that can help your autonomous vehicle start
 
 Dear friends and family,
 
-This page and product are still under construction, so please check back soon for updates. If you have any questions, please reach out to [Neha](neha@yawpitchroll.ai) or [Nikhil](nikhil@yawpitchroll.ai).
+This page and product are still under construction, so please check back soon for updates. If you have any questions, please reach out to [Neha](mailto:neha@yawpitchroll.ai) or [Nikhil](mailto:nikhil@yawpitchroll.ai).
 
 Thanks for your kind wishes and support!
 
