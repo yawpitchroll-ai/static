@@ -1,49 +1,37 @@
 ---
-title: Home
+title: Product + Services
 layout: home
+nav_order: 0
 ---
 
 # yawpitchroll
 
-The cloud-based data replay platform that can help your autonomous vehicle startup get to market faster and safer, on any cloud platform.
+Data & Cloud Solutions for AD, ADAS, and Drones
 
 ----
+# Mission
 
-**IMPORTANT PLEASE READ**
+At **yawpitchroll.ai**, our drive is shaped by data - unlocking infinite potential from finite data. Our innovative, data-driven cloud platform is meticulously crafted to simplify vehicle data replay, edge-case scenario mining, and bug triaging for autonomous vehicles. Scalable and platform-agnostic, we focus on reducing complexities in autonomous driving development, empowering innovators to channel their energy toward pioneering advancements in autonomous algorithm development.
 
-Dear friends and family,
+# Vision
 
-This page and product are still under construction, so please check back soon for updates. If you have any questions, please reach out to [Neha](mailto:neha@yawpitchroll.ai) or [Nikhil](mailto:nikhil@yawpitchroll.ai).
+Steering the future of autonomous driving with data at the helm, **yawpitchroll.ai** is poised to be the trailblazer in cloud-based, data-driven solutions for the autonomous driving community. With a strong commitment to open source support, we are building bridges for collaborative innovation, where advancements are co-designed, shared, and refined. By dismantling traditional roadblocks and leveraging data-centric workflows, we envision shaping the landscape of robotics development, making it safer, more efficient, and perpetually evolving with contributions from a global community.
 
-Thanks for your kind wishes and support!
+# Product + Service Offerings
 
-Cheers!
+A cloud-based autonomous vehicle data replay platform with bug triaging, edge case scenario mining, and time series database management capabilities.
 
-----
-**yawpitchroll.ai** is a cloud-based data replay platform that can help autonomous vehicle startups develop and test their vehicles more quickly and efficiently. By replaying recorded data from real-world driving scenarios, startups can:
+## Services (Data below refers to data from ADAS/autonomous driving and robots)
 
-* Identify and fix bugs
-* Evaluate the performance of their vehicles
-* Train their software
+* Cloud and Data engineering services for autonomous driving/ADAS/drones/industrial robots (Currently offering, any geographic location)
+* CI/CD implementation 
+* Large-scale data replay setup
+* Simulation architecture setup 
+* Data analytics and dashboarding
+* Data cleaning, mining, transforming engineering services
+* Specific requirements-based software development
+* Visualization tool
+* Consultating services
+  
+[Contact us]({{ site.baseurl }}{% link contact-us.md %}) to discuss your usecase.
 
-**yawpitchroll.ai is available on any cloud platform**, so startups can choose the platform that best meets their needs. This makes it easy for startups to get started with yawpitchroll.ai and to scale their usage as their needs grow.
-
-**Here are some of the benefits of using yawpitchroll.ai on a cloud platform:**
-
-* **Scalability:** yawpitchroll.ai can be scaled up or down as needed, so startups can be confident that they have the resources they need to meet their demands.
-* **Cost-effectiveness:** Cloud platforms offer a pay-as-you-go pricing model, so startups only pay for the resources they use. This can help startups save money on their data replay needs.
-* **Ease of use:** yawpitchroll.ai is easy to use, even for startups with limited technical expertise. This makes it easy for startups to get started with data replay and to start seeing the benefits.
-
-**Sign up for a free trial today and see how yawpitchroll.ai can help you develop and test your autonomous vehicles.**
-
-**Important info:**
-
-* **Cloud-based**
-* **Available on any cloud platform**
-* **Scalable**
-* **Cost-effective**
-* **Easy to use**
-
-**Sign up for a free trial today! (Coming soon)**
-
-----
