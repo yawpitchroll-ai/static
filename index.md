@@ -23,15 +23,15 @@ A cloud-based autonomous vehicle data replay platform with bug triaging, edge ca
 
 ## Services (Data below refers to data from ADAS/autonomous driving and robots)
 
-* Cloud and Data engineering services for autonomous driving/ADAS/drones/industrial robots (Currently offering, any geographic location)
-* CI/CD implementation 
+* Data engineering services
 * Large-scale data replay setup
-* Simulation architecture setup 
-* Data analytics and dashboarding
-* Data cleaning, mining, transforming engineering services
-* Specific requirements-based software development
-* Visualization tool
-* Consultating services
+* Simulation architecture setup
+* CI/CD implementation 
+* Data analytics reporting & dashboarding
+* Metrics development
+* System observability
+
+We provide these services either on-premises or in the cloud. Currently available in any geographical region.
   
 [Contact us]({{ site.baseurl }}{% link contact-us.md %}) to discuss your usecase.
 
