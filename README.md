@@ -1,5 +1,5 @@
 # just-the-docs-template
-
+# delete this line, tryin to resolve an SSH error
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
 - uses the [Just the Docs] theme;

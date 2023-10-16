@@ -11,7 +11,7 @@ Data Platform for Autonomous Vehicles
 ----
 # Mission
 
-At **yawpitchroll.ai**, our drive is shaped by data - unlocking infinite potential from finite data. Our innovative, data-driven cloud platform is meticulously crafted to simplify vehicle data replay, edge-case scenario mining, and bug triaging for autonomous vehicles. Scalable and platform-agnostic, we focus on reducing complexities in autonomous driving development, empowering innovators to channel their energy toward pioneering advancements in autonomous algorithm development.
+At **yawpitchroll.ai** - unlocking infinite potential from finite data. Our innovative, data-driven solutions are meticulously crafted to simplify vehicle data analysis, edge-case scenario consulting, and bug triaging for industrial robots, drones and self-driving cars. Scalable and platform-agnostic, we focus on reducing complexities in algorithm development, empowering businesses to channel their energy toward pioneering advancements in autonomous systems and strategy.
 
 # Vision
 
