@@ -7,7 +7,7 @@ nav_order: 2
 
 Welcome to YawPitchRoll.
 
-Founded by [Nikhil Soni](https://www.linkedin.com/in/soninikhil), YawPitchRoll emerged from a rich tapestry of expertise and passion. With an extensive background in data engineering, and business analytics, Nikhil has delved deep into the realms of finance, supply chain, and the automotive industry. This experience laid the groundwork for what YawPitchRoll is today.
+Founded by [Neha Agarwal](https://www.linkedin.com/in/nagarwa/) and [Nikhil Soni](www.linkedin.com/in/soninikhil), YawPitchRoll emerged from a rich tapestry of expertise and passion.
 
 At the heart of YawPitchRoll is a philosophy rooted in simplicity, elegance, and functionality. In a world often chasing the illusion of perfection, we choose to prioritize the good. To us, it's not about reaching an elusive end, but rather about the journey of continuous improvement. Iteration and experimentation aren't just strategies; they are the very essence of our ethos.
 
