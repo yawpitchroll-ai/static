@@ -6,7 +6,7 @@ nav_order: 0
 
 # yawpitchroll
 
-Data & Cloud Solutions for AD, ADAS, and Drones
+Data Platform for Autonomous Vehicles
 
 ----
 # Mission
@@ -21,17 +21,10 @@ Steering the future of autonomous driving with data at the helm, **yawpitchroll.
 
 A cloud-based autonomous vehicle data replay platform with bug triaging, edge case scenario mining, and time series database management capabilities.
 
-## Services (Data below refers to data from ADAS/autonomous driving and robots)
-
-* Cloud and Data engineering services for autonomous driving/ADAS/drones/industrial robots (Currently offering, any geographic location)
-* CI/CD implementation 
-* Large-scale data replay setup
-* Simulation architecture setup 
+* Cloud and Data engineering platform for Autonomous Vehicles
+* Large-scale data replay at scale
+* Simulation architecture at scale 
 * Data analytics and dashboarding
-* Data cleaning, mining, transforming engineering services
-* Specific requirements-based software development
-* Visualization tool
-* Consultating services
   
 [Contact us]({{ site.baseurl }}{% link contact-us.md %}) to discuss your usecase.
 
